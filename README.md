@@ -1,6 +1,6 @@
 <div align="center">
 
-# D3 (Título Provisório)
+# D3 GameJam - Grupo 9
 
 <br>
 
