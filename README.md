@@ -38,8 +38,8 @@ Prepare-se para uma experiência arcade implacável, onde sua habilidade de se m
 
 | Fase Atual | Próximos Passos |
 | :---: | :---: |
-| 🟡 **Prototipagem** | Implementar Inimigos |
-| *Definindo gameplay loop* | *Criar mais armas/upgrades* |
+| 🟡 **Prototipagem** | Implementar Jogador Principal |
+| *Definindo gameplay loop* | *Implementar os Inimigos* |
 
 </div>
 
