@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://placehold.co/1280x480/131313/00FFFF?text=D3%20-%20Projeto%20Cyberpunk" alt="Banner do Jogo D3">
+<img src="https://placehold.co/1280x480/131313/00FFFF?text=%20Projeto%20Cyberpunk" alt="Banner do Jogo D3">
 
 </div>
 
