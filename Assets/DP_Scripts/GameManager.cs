@@ -31,11 +31,11 @@ public class GameManager : MonoBehaviour
         {
             EnemyStatus[] enemies = Object.FindObjectsByType<EnemyStatus>(FindObjectsSortMode.None); // Search for all active EnemyStatus in the scene
 
-            if (enemies == null || enemies.Length == 0)
-            {
-                autoDamageCoroutine = null; // No more enemies: stop the coroutine
-                yield break;
-            }
+            //if (enemies == null || enemies.Length == 0)
+            //{
+                //autoDamageCoroutine = null; // No more enemies: stop the coroutine
+                //yield break;
+            //}
 
             // Apply damage to each enemy
             foreach (var e in enemies)

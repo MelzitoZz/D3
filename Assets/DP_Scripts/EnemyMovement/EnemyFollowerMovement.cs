@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyMovement : MonoBehaviour
+public class EnemyFollowerMovement : MonoBehaviour
 {
     private Transform playerTransform; // Reference to the player's transform
     private Rigidbody2D rb; // Reference to the enemy's Rigidbody2D
