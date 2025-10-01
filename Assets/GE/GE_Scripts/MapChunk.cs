@@ -15,8 +15,6 @@ public class MapChunk : MonoBehaviour
             {
                 Vector3 pos = new Vector3(transform.position.x + x, transform.position.y + y, 0);
                 GameObject tile = Instantiate(tilePrefab, pos, Quaternion.identity, transform);
-                // Exemplo: Muda cor aleatoriamente
-                tile.GetComponent<SpriteRenderer>().color = rand.NextDouble() > 0.2 ? Color.green : Color.gray;
             }
         }
     }
